@@ -2,3 +2,4 @@
 
 ### collaborators
 - Iván Lasso
+- Franklin Alvarado
